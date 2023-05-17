@@ -1,0 +1,5 @@
+npm install react-icons react-hook-form clsx
+
+npm i @tailwindcss/forms
+
+npm install -D prisma
